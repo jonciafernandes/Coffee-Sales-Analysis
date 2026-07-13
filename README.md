@@ -1,6 +1,7 @@
 # Coffee Sales Analysis
 ### Project Background
 Founded in 2018, Brew Haven Coffee is a fictional specialty coffee retailer that sells premium coffee beans through its online store. The company offers four coffee varieties, each available in multiple roast levels (Light, Medium, and Dark) and four package sizes to cater to a wide range of customer preferences. To encourage repeat purchases and strengthen customer relationships, the business also operates a Loyalty Card program.
+
 Between 2 January 2019 and 19 August 2022, Brew Haven recorded customer orders from customers across the United States, Ireland, and the United Kingdom. While the business had accumulated valuable sales, customer, and product information, the data was spread across multiple tables, making it difficult to monitor business performance and identify meaningful trends.
 
 This project analyzes sales performance, customer purchasing behaviour, and product trends by integrating order, customer, and product data into a single interactive Excel dashboard.
