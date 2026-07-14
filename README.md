@@ -23,8 +23,7 @@ The dashboard was developed entirely in Microsoft Excel, utilizing XLOOKUP, INDE
 ### Data Structure and Initial Checks
 The analysis was conducted using three related datasets containing order transactions, customer information, and product details. Together, these datasets provide a comprehensive view of coffee sales, customer purchasing behaviour, and product offerings between 2 January 2019 and 19 August 2022.
 
- <img width="130" height="91" style="vertical-align: top;" alt="image" src="https://github.com/user-attachments/assets/88cb3bb2-c87f-4861-8c99-594d0a73486f" />  <img width="131" height="149" style="vertical-align: top;" alt="image" src="https://github.com/user-attachments/assets/9cf10258-9bd1-4e36-8843-9b51e38f8154" />  <img width="119" height="118" style="vertical-align: top;" alt="image" src="https://github.com/user-attachments/assets/b5dbaa66-0c45-4622-a196-9b96b8586268" /> 
-
 | Orders | Customers | Products |
 |:------:|:---------:|:--------:|
-| <img src="(https://github.com/user-attachments/assets/88cb3bb2-c87f-4861-8c99-594d0a73486f)" width="220"> | <img src="(https://github.com/user-attachments/assets/9cf10258-9bd1-4e36-8843-9b51e38f8154)" width="220"> | <img src="(https://github.com/user-attachments/assets/b5dbaa66-0c45-4622-a196-9b96b8586268)" width="220"> |
+| <img width="130" height="91" style="vertical-align: top;" alt="image" src="https://github.com/user-attachments/assets/88cb3bb2-c87f-4861-8c99-594d0a73486f" /> | <img width="131" height="149" style="vertical-align: top;" alt="image" src="https://github.com/user-attachments/assets/9cf10258-9bd1-4e36-8843-9b51e38f8154" /> | <img width="119" height="118" style="vertical-align: top;" alt="image" src="https://github.com/user-attachments/assets/b5dbaa66-0c45-4622-a196-9b96b8586268" /> |
+
