@@ -23,10 +23,10 @@ The dashboard was developed entirely in Microsoft Excel, utilizing XLOOKUP, INDE
 ### Data Structure and Initial Checks
 The analysis was conducted using three related datasets containing order transactions, customer information, and product details. Together, these datasets provide a comprehensive view of coffee sales, customer purchasing behaviour, and product offerings between 2 January 2019 and 19 August 2022.
 
-| Orders | Customers ! Products |
-|:------:|:---------:|:--------:|
-| <img width="135" height="81" alt="image" src="https://github.com/user-attachments/assets/19967c96-cb68-4b47-9aee-a0f041ffc2fe" /> | <img width="131" height="135" alt="image" src="https://github.com/user-attachments/assets/39a688aa-c4e0-43ff-96dc-de6fd237bdfb" /> | <img width="121" height="104" alt="image" src="https://github.com/user-attachments/assets/ae07eb58-5277-475d-b737-dcbd892aaaa4" /> |
-
 | Orders | Customers | Products |
 |:------:|:---------:|:--------:|
 | <img src="https://github.com/user-attachments/assets/19967c96-cb68-4b47-9aee-a0f041ffc2fe" width="220"> | <img src="https://github.com/user-attachments/assets/39a688aa-c4e0-43ff-96dc-de6fd237bdfb" width="220"> | <img src="https://github.com/user-attachments/assets/ae07eb58-5277-475d-b737-dcbd892aaaa4" width="220"> |
+
+Prior to building the dashboard, the datasets were reviewed for consistency and completeness. Data from the three worksheets was consolidated into a single analysis table using XLOOKUP, INDEX, and MATCH functions to retrieve customer and product information based on their respective IDs. Additional calculated fields, including Sales, were created to support the analysis.
+
+The consolidated dataset was then used to create PivotTables, PivotCharts, Slicers, and a Timeline, enabling the development of an interactive Excel dashboard for exploring sales performance, customer behaviour, and product trends.
