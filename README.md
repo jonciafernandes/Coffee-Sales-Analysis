@@ -27,3 +27,6 @@ The analysis was conducted using three related datasets containing order transac
 |:------:|:---------:|:--------:|
 | <img width="135" height="81" alt="image" src="https://github.com/user-attachments/assets/19967c96-cb68-4b47-9aee-a0f041ffc2fe" /> | <img width="131" height="135" alt="image" src="https://github.com/user-attachments/assets/39a688aa-c4e0-43ff-96dc-de6fd237bdfb" /> | <img width="121" height="104" alt="image" src="https://github.com/user-attachments/assets/ae07eb58-5277-475d-b737-dcbd892aaaa4" /> |
 
+| Orders | Customers | Products |
+|:------:|:---------:|:--------:|
+| <img src="https://github.com/user-attachments/assets/19967c96-cb68-4b47-9aee-a0f041ffc2fe" width="220"> | <img src="https://github.com/user-attachments/assets/39a688aa-c4e0-43ff-96dc-de6fd237bdfb" width="220"> | <img src="https://github.com/user-attachments/assets/ae07eb58-5277-475d-b737-dcbd892aaaa4" width="220"> |
