@@ -18,7 +18,7 @@ Insights and analysis are provided on the following key areas:
 
 **Loyalty Program Analysis** - Comparison of purchasing behaviour between Loyalty Card members and non-members to evaluate customer engagement and support retention strategies.
 
-The dashboard was developed entirely in Microsoft Excel, utilizing XLOOKUP, INDEX, and MATCH functions to consolidate data from multiple worksheets into a single dataset. PivotTables, PivotCharts, Slicers and Timelines were incorporated in building interactive business intelligence dashboard that supports dynamic filtering and data-driven decision-making.
+The [dashboard](https://github.com/jonciafernandes/Coffee-Sales-Analysis/blob/main/CoffeeSalesDashboard.png) was developed entirely in Microsoft [Excel](https://github.com/jonciafernandes/Coffee-Sales-Analysis/blob/main/coffeeOrdersDataAnalyzed.xlsx), utilizing XLOOKUP, INDEX, and MATCH functions to consolidate data from multiple worksheets into a single dataset. PivotTables, PivotCharts, Slicers and Timelines were incorporated in building interactive business intelligence dashboard that supports dynamic filtering and data-driven decision-making.
 
 ### Data Structure and Initial Checks
 The analysis was conducted using three related datasets containing order transactions, customer information, and product details. Together, these datasets provide a comprehensive view of coffee sales, customer purchasing behaviour, and product offerings between 2 January 2019 and 19 August 2022.
