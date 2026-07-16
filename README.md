@@ -30,3 +30,13 @@ The analysis was conducted using three related datasets containing order transac
 Prior to building the dashboard, the datasets were reviewed for consistency and completeness. Data from the three worksheets was consolidated into a single analysis table using XLOOKUP, INDEX, and MATCH functions to retrieve customer and product information based on their respective IDs. Additional calculated fields, including Sales, were created to support the analysis.
 
 The consolidated dataset was then used to create PivotTables, PivotCharts, Slicers, and a Timeline, enabling the development of an interactive Excel dashboard for exploring sales performance, customer behaviour, and product trends.
+
+### Executive Summary
+The analysis of coffee sales from 2 January 2019 to 19 August 2022 revealed valuable insights into sales performance, product profitability, customer purchasing behaviour, and market trends. While sales fluctuated throughout the reporting period, the business experienced several strong sales peaks, indicating periods of increased customer demand.
+<img width="200" height="100" alt="image" src="https://github.com/user-attachments/assets/9b360882-469d-4bef-a89a-50d783a5dd5f" />
+
+Among the four coffee varieties, Excyllsa generated the highest total sales, while Librica emerged as the most profitable product overall. The 2.5 kg package consistently produced the highest profit across all coffee types, highlighting the strong contribution of larger pack sizes to overall profitability. Although Arabica recorded the highest number of units sold, it did not generate the highest revenue or profit, demonstrating that higher sales volume does not always translate into greater profitability.
+<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/7433882b-ebc0-4826-bbd4-b29acacc1a1d" />
+
+The United States accounted for the largest share of total sales, significantly outperforming Ireland and the United Kingdom. Customer purchasing patterns also varied by Loyalty Card status and Roast Type, suggesting opportunities for targeted marketing and customer retention initiatives. Based on these findings, the business should focus on promoting its most profitable products while expanding loyalty program participation to encourage repeat purchases and long-term customer value.
+
